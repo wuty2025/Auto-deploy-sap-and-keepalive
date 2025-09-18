@@ -1,14 +1,14 @@
 #!/bin/sh
 
 # 环境变量配置
-EMAIL="xxxxx@xxxx.com"   # 登录邮箱
-PASSWORD="xxxxxxxxx"     # 登录密码
-SG_ORG="xxxxtrial"       # SG组织名称
-US_ORG=""                # US组织名称
+EMAIL="wuty2200@gmail.com"   # 登录邮箱
+PASSWORD="zz3d8e3yyat@1"     # 登录密码
+SG_ORG="d8e0d9b8trial_gs-2ea9bytq"       # SG组织名称
+US_ORG="d8e0d9b8trial"                # US组织名称
 SPACE="dev" # 多区请使用同样的空间名称
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://xxxx.cfapps.ap21.hana.ondemand.com https://xxxx.cfapps.us10-001.hana.ondemand.com"  
+URLS="https://uspwvlvo.cfapps.us10-001.hana.ondemand.com sgguchvo.cfapps.ap21.hana.ondemand.com"  
 
 # 颜色定义
 green() {
